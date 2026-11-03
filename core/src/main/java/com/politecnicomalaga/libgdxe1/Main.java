@@ -51,7 +51,7 @@ public class Main extends ApplicationAdapter {
 
         fPosXPlayer=300;
         fPosYPlayer=300;
-        fVelPlayer=0.5f;
+        fVelPlayer=50f;
         bGanamos = false;
     }
 
@@ -92,7 +92,7 @@ public class Main extends ApplicationAdapter {
 
                 fPosXPlayer=300;
                 fPosYPlayer=300;
-                fVelPlayer=0.5f;
+                fVelPlayer=50f;
                 bGanamos = false;
             }
         }
